@@ -1,0 +1,38 @@
+.infoBox {
+    width: 100%;
+    margin: .2rem 0;
+    background: #fff;
+}
+
+.infoItemBox {
+    width: 100%;
+    line-height: .26rem;
+    padding: .24rem;
+}
+
+.infoItemTitle {
+    float: left;
+    line-height: .5rem;
+    width: 1.4rem;
+    font-size: .3rem;
+}
+
+.infoInput {
+    font-size: .3rem;
+    border: none;
+    width: 4rem;
+    line-height: .44rem;
+    color: #212121;
+}
+
+.tipBox {
+    margin: .2rem .2rem 0 .2rem;
+    color: #616161;
+    font-size: .24rem;
+    line-height: .4rem;
+    min-height: .4rem;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+}

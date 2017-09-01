@@ -1,0 +1,95 @@
+.prdcard2 {
+    width: 100%;
+    height: 2.6rem;
+    background: #fff;
+    border-radius: .1rem .1rem 0 0;
+    position: relative;
+    padding: .2rem .2rem 0 .2rem;
+    box-sizing: border-box;
+    margin-bottom: .2rem;
+    clear: both;
+}
+
+.box2 {
+    overflow: hidden;
+}
+
+.prdcard-name2 {
+    color: #212121;
+    font-size: .32rem;
+    line-height: .44rem;
+    margin-bottom: .04rem;
+    max-width: 65%;
+    float: left;
+}
+
+.prdleft2 {
+    font-size: .2rem;
+    margin-right: .1rem;
+    color: #25a4bb;
+}
+
+.prdcard-tagcon-li2 {
+    float: left;
+    line-height: .44rem;
+    color: #616161;
+    font-size: .24rem;
+    margin-right: .1rem;
+}
+
+.time2 {
+    width: 100%;
+    float: left;
+}
+
+.info2 {
+    float: left;
+}
+
+.money2 {
+    width: 30%;
+    float: right;
+}
+
+.prdcard-pricecon2 {
+    height: .48rem;
+    margin: .2rem 0;
+    float: right;
+    text-align: right;
+    margin-right: .3rem;
+}
+
+.prdcard-span1 {
+    color: #ff8300;
+    font-size: .24rem;
+}
+
+.prdcard-span2 {
+    color: #ff8300;
+    font-size: .48rem;
+}
+
+.prdcard-span3 {
+    color: #9e9e9e;
+}
+
+.prdcard-span4 {
+    color: #616161;
+    font-size: .24rem;
+    margin-left: .2rem;
+}
+
+.prdcard-span5 {
+    float: right;
+    font-size: .24rem;
+    line-height: .6rem;
+}
+
+.prdcard-tagcon2 .prdcard-tagcon-li2 {
+    float: left;
+    font-size: .24rem;
+}
+
+.prdcard-tagcon2 .icon-font {
+    margin-right: .2rem;
+}

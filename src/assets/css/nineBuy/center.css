@@ -1,0 +1,227 @@
+.index-img-container {
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+}
+.index-modules-caption {
+	padding-bottom: 25.86%;
+}
+.index-module-caption {
+	padding-bottom: 29.6%;
+}
+.img-miaosha {
+	width: 100%;
+}
+.index-modules-content {
+    min-height: 2.36rem;
+    background-color: #fd551e;
+}
+.index-list {
+	margin: 0 .05rem;
+	overflow: hidden;
+}
+.index-item {
+	float: left;
+	margin-bottom: .3rem;
+	 	width: 50%;
+}
+.index-link {
+	display: block;
+	margin: 0 .15rem;
+	padding-bottom: .06rem;
+	background: #fff;
+}
+.index-show {
+	position: relative;
+	padding-bottom: 61.76%;
+	background-color: #f0f0f0;
+}
+.index-img-container {
+	 	overflow: hidden;
+	width: 100%;
+	height: 0;
+}
+.index-topic-img {
+	 	width: 100%;
+	vertical-align: top;
+}
+.index-title {
+	margin: .12rem .1rem 0;
+}
+.index-title .index-ellipsis2 {
+    height: .72rem;
+    color: #222;
+    font-size: .28rem;
+    line-height: .36rem;
+}
+.index-ellipsis2 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.index-price, .index-card-price {
+    overflow: hidden;
+    height: .76rem;
+    text-indent: .18rem;
+}
+.index-sale {
+	text-indent: 0.18rem;
+}
+.index-sale .index-price, .index-card-sale .index-price {
+    color: #f94a3a;
+    font-size: .28rem;
+}
+.index-sale .index-price-num {
+	font-size: .4rem;
+}
+.index-sale .index-price, .index-price .index-price-num {
+    line-height: .8rem;
+}
+.index-price {
+    font: .24rem "Microsoft yahei","Hiragino sans gb",Arial,sans-serif;
+    text-indent: .18rem;
+}
+.index-cost, .mp-card-cost {
+    color: #999;
+    text-decoration: line-through;
+}
+.grid-btn, .index-card-btn {
+    margin: 0 .06rem;
+    background: #fd3422;
+    color: #fff;
+    font-size: .3rem;
+    line-height: .6rem;
+    text-align: center;
+    border-radius: .14rem;
+}
+
+
+.index-card-list {
+    margin: 0 .2rem;
+}
+.index-card-item {
+    margin-bottom: .3rem;
+}
+.index-card-link {
+    display: block;
+    position: relative;
+    background: #fff;
+}
+.index-card-show {
+    position: relative;
+    padding-bottom: 54.36%;
+    background-color: #f0f0f0;
+}
+.index-img-container {
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+}
+.index-topic-img {
+    width: 100%;
+    vertical-align: top;
+}
+.index-card-name {
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: .2rem .1rem .1rem;
+    background-image: linear-gradient(to bottom,rgba(0,0,0,0),rgba(0,0,0,.6));
+}
+.index-card-name .index-ellipsis2 {
+    max-height: .72rem;
+    color: #fff;
+    font-size: .32rem;
+    line-height: .36rem;
+}
+.index-ellipsis2 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.index-card-price {
+    height: 1.12rem;
+}
+.mp-grid-price, .index-card-price {
+    overflow: hidden;
+    /*height: .76rem;*/
+    text-indent: .18rem;
+}
+.index-card-price .index-price, .index-card-price .index-price-num {
+    line-height: 1.2rem;
+}
+.mp-grid-sale .index-price, .index-card-sale .index-price {
+    color: #f94a3a;
+    font-size: .28rem;
+}
+.index-price {
+    font: .24rem "Microsoft yahei","Hiragino sans gb",Arial,sans-serif;
+    line-height: 1.2rem;
+}
+.mp-grid-sale .index-price-num, .index-card-sale .index-price-num {
+    font-size: .4rem;
+}
+.index-price-num {
+    font: .28rem Tahoma,Helvetica,sans-serif;
+}
+.mp-grid-cost, .mp-card-cost {
+    color: #999;
+    text-decoration: line-through;
+}
+.index-card-price .index-price, .index-card-price .index-price-num {
+    line-height: 1.2rem;
+}
+.mp-grid-cost .index-price, .mp-card-cost .index-price {
+    font-size: .24rem;
+}
+.index-price {
+    font: .24rem "Microsoft yahei","Hiragino sans gb",Arial,sans-serif;
+}
+.index-cost .index-price-num {
+    font-size: .24rem;
+}
+.index-price-num {
+    font: .28rem Tahoma,Helvetica,sans-serif;
+}
+.index-card-btn {
+    position: absolute;
+    right: .2rem;
+    bottom: .26rem;
+    margin: 0;
+    width: 32.11%;
+}
+.mp-grid-btn, .index-card-btn {
+    margin: 0 .06rem;
+    background: #fd3422;
+    color: #fff;
+    font-size: .3rem;
+    line-height: .6rem;
+    text-align: center;
+    border-radius: .14rem;
+}
+.topic-img {
+	width: 100%;
+}
+.index-grid-list {
+    margin: 0 .05rem;
+}
+.index-data-loading {
+    color: #fff;
+    font-size: .28rem;
+    line-height: .6rem;
+    text-align: center;
+}
+.index-more {
+    display: block;
+    margin: 0 .22rem;
+    background: #ff7d52;
+    color: #fff;
+    font-size: .3rem;
+    line-height: .76rem;
+    text-align: center;
+    border-radius: .38rem;
+  
+}
+.module-content {
+	padding-bottom: 2.5rem;
+}

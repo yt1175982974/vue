@@ -1,0 +1,183 @@
+{
+	"ret": true,
+	"data": {
+		"citys": [{
+				"text": "北京",
+				"id": "1001",
+				"router": "/nineBuy/beijing"
+			}, {
+				"text": "天津",
+				"id": "1002",
+				"router":"/nineBuy/tianjin"
+			}, {
+				"text": "保定",
+				"id": "1003",
+				"router": "/nineBuy/baoding"
+			}, {
+				"text": "承德",
+				"id": "1004",
+				"router": "/nineBuy/chengde"
+			}],
+		"navs":[{
+				"url":"https://img1.qunarzz.com/desmisact/images/1708/7e/12458554e01d43.png",
+				"text":"门票会场",
+				"id":1
+			},{
+				"url":"https://img1.qunarzz.com/desmisact/images/1708/39/03fa6b46315b3a.png",
+				"text":"12周年主会场",
+				"id":2
+			},{
+				"url":"https://img1.qunarzz.com/desmisact/images/1708/3e/b4ebed8524997a.png",
+				"text":"12年旅行日记",
+				"id":3
+			}],
+		"beijing":[{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1704/6c/6c8f90546cca86c8a3.img.jpg_340x210_20a24e3a.jpg",
+				"ellipsis2": "【1元秒杀】北京蟒山公园国际奇幻森林灯光节门票",
+				"alt": "蟒山国家森林公园",
+				"price": 1,
+				"realPrice": 30
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1706/de/dee2af4ba016221ea3.img.png_340x210_8646246d.png",
+				"ellipsis2": "【去哪儿会员日】北京亲子畅玩卡（限量100张）",
+				"alt": "我们出海吧儿童乐园",
+				"price": 10.9,
+				"realPrice": 198
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1609/7a/7ae8ee7831836095a3.water.jpg_340x210_5d794bb0.jpg",
+				"ellipsis2": "【活动票】金海湖风景区成人特惠票",
+				"alt": "金海湖风景区",
+				"price": 19.9,
+				"realPrice": 30
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1706/61/61cbf3401445d0fca3.img.jpg_340x210_e429ee7f.jpg",
+				"ellipsis2": "爱琴海庄园门票+冰雪乐园特惠票（下午场）",
+				"alt": "十渡爱琴海薰衣草庄园",
+				"price": 19.9,
+				"realPrice": 98
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1705/f9/f9f44c6b1d317a14a3.img.jpg_340x210_7690dfad.jpg",
+				"ellipsis2": "[夜场特惠票]五洲植物乐园艺术灯光夜套票",
+				"alt": "南宫五洲植物乐园",
+				"price": 9.9,
+				"realPrice": 100
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1602/68/68aa05adb5315f9990.water.jpg_340x210_2f6a4038.jpg",
+				"ellipsis2": "【限量抢购】北京海洋馆七夕晚场成人特惠票（含自助餐）",
+				"alt": "北京海洋馆",
+				"price": 130,
+				"realPrice": 260
+			}],
+		"tianjin":[{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1703/76/76f0136dc779efdda3.img.jpg_340x210_000b84af.jpg",
+				"ellipsis2": "【8.26-8.28七夕节】天津欢乐谷全天双人票",
+				"alt": "天津欢乐谷",
+				"price": 199,
+				"realPrice": 360
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/201307/23/d41d86f5de688defc8d65eac.jpg_340x210_6fae8479.jpg",
+				"ellipsis2": "【8.17-8.30促销】米立方夜场成人票",
+				"alt": "天山海世界米立方",
+				"price": 39,
+				"realPrice": 65
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1411/61/84f6158c7843d6a451d4c8d9b6fe1fa2.water.jpg_340x210_13ed7000.jpg",
+				"ellipsis2": "天津龙达温泉生态城夜场成人票",
+				"alt": "天津龙达温泉生态城",
+				"price": 58,
+				"realPrice": 128
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1603/58/58078bf3b52bf81590.water.jpg_340x210_51fa9e1b.jpg",
+				"ellipsis2": "天津蓟县黄崖关长城门票+八仙洞门票（成人票）",
+				"alt": "天津蓟州黄崖关长城景区",
+				"price": 60,
+				"realPrice": 65
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1507/6f/3df88c1cae757ae7823b6732b7e8381b.water.jpg_340x210_75e88f41.jpg",
+				"ellipsis2": "天津方特夜场成人票",
+				"alt": "天津方特欢乐世界",
+				"price": 78,
+				"realPrice": 120
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1703/76/76f0136dc779efdda3.img.jpg_340x210_000b84af.jpg",
+				"ellipsis2": "天津欢乐谷夜场成人票",
+				"alt": "天津欢乐谷",
+				"price": 85,
+				"realPrice": 100
+			}],
+		"chengde":[{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1506/31/b1660c4aa094d0b4e1c23ea6feaff97e.water.jpg_340x210_f594e711.jpg",
+				"ellipsis2": "【七夕促销】花舞人间门票",
+				"alt": "梨花溪",
+				"price": 13.14,
+				"realPrice": 80
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/201405/13/e9674ce762a10626b2ff600557fd9328.jpg_340x210_5013f576.jpg",
+				"ellipsis2": "【促销19.9】天府花溪谷成人票",
+				"alt": "天府花溪谷",
+				"price": 19.9,
+				"realPrice": 40
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/201403/07/d5185a52287e6ec4921f1a5eceaea0ef.jpg_340x210_d491f9c4.jpg",
+				"ellipsis2": "【七夕促销】水上乐园日场成人套票 仅限（8.25-8.28）",
+				"alt": "国色天乡·水上乐园",
+				"price": 99,
+				"realPrice": 150
+			},{
+				"imgUrl": "https://imgs.qunarzz.com/sight/p0/1507/b0/b01d5fd6a14ad85f.img.jpg_340x210_ea0b69ba.jpg",
+				"ellipsis2": "【夜场】天堂岛海洋乐园夜场成人票",
+				"alt": "天堂岛海洋乐园",
+				"price": 59.9,
+				"realPrice": 108
+			}],
+		"baoding":[{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1708/8f/8f50bbf5329f906ca3.img.jpg_340x210_97bf1fde.jpg",
+				"ellipsis2": "【专享】野三坡景区联票（百里峡+鱼谷洞+龙门天关+白草畔）",
+				"alt": "野三坡",
+				"price": 138,
+				"realPrice": 150
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1606/d2/d2f351fd8bc0fdc90.water.jpg_340x210_6e018109.jpg",
+				"ellipsis2": "白石山世界地质公园",
+				"alt": "白石山世界地质公园",
+				"price": 140,
+				"realPrice": 150
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1607/c3/c35811eb2dc24d272e.water.jpg_340x210_8b6fc503.jpg",
+				"ellipsis2": "狼牙山风景区成人票",
+				"alt": "狼牙山",
+				"price": 70,
+				"realPrice": 80
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1607/19/19e65541c2d2c58bb4.water.jpg_340x210_8a9069a7.jpg",
+				"ellipsis2": "白洋淀荷花大观园门票",
+				"alt": "白洋淀",
+				"price": 35,
+				"realPrice": 50
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1705/69/69050be7814d9c13a3.img.jpg_340x210_bcc23932.jpg",
+				"ellipsis2": "神湖四季生态园成人票",
+				"alt": "神湖四季生态园",
+				"price": 24,
+				"realPrice": 30
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1708/8f/8f50bbf5329f906ca3.img.jpg_340x210_97bf1fde.jpg",
+				"ellipsis2": "野三坡鱼谷洞成人票",
+				"alt": "野三坡",
+				"price": 65,
+				"realPrice": 65
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/1601/26/26eeb64eff6eed1c90.img.jpg_340x210_314ba972.jpg",
+				"ellipsis2": "德轩海洋馆+冰雕大世界通票",
+				"alt": "德轩海洋馆",
+				"price": 94,
+				"realPrice": 128
+			},{
+				"imgUrl": "https://img1.qunarzz.com/sight/p0/201306/07/7416200d63460db9c8d65eac.jpg_340x210_4e038486.jpg",
+				"ellipsis2": "狼牙山龙门湖欢乐世界双人票",
+				"alt": "狼牙山龙门湖欢乐世界",
+				"price": 200,
+				"realPrice": 276
+			}]
+	}
+}

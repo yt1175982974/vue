@@ -1,0 +1,148 @@
+.article {
+  position:absolute;
+  left:0;
+  right:0;
+  font-size: 0.1rem;
+  background: #fff;
+}
+
+.search-history-title, .search-hot-title {
+  width: 100%;
+  height: .66rem;
+  background: #eee;
+  overflow: hidden;
+}
+
+.search-history-address {
+  width: 100%;
+}
+
+.history-address-item-list {
+  overflow: hidden;
+}
+
+.history-address-item {
+  float: left;
+  margin-left: 0.2rem;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+  padding: 0.1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  list-style: none;
+}
+
+.search-history-title-name, .search-hot-title-name {
+  line-height: .66rem;
+  margin-left: .2rem;
+  float: left;
+  font-size: .26rem;
+}
+
+.search-history-title-clear, .search-hot-title-clear {
+  line-height: .66rem;
+  margin-right: .2rem;
+  float: right;
+  font-size: .26rem;
+  color: #00afc7;
+}
+
+.search-hot-top {
+  height: 1.8rem;
+  position: relative;
+  overflow: hidden;
+  border-top: 1px solid #dce5e7;
+}
+
+.search-hot-top-icon {
+  width: .74rem;
+  height: 1.26rem;
+  line-height: 1.26rem;
+  float: left;
+  margin-top: 0.27rem;
+  border-right: 1px solid #dce5e7;
+  text-align: center;
+}
+
+.search-hot-top-address {
+  float: left;
+  position: absolute;
+  left: 0.75rem;
+}
+
+.hot-top-list {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.hot-top-item {
+  height: .36rem;
+  padding-left: .3rem;
+  padding-right: .3rem;
+  margin-top: .25rem;
+  margin-bottom: .25rem;
+  float: left;
+  border-right: 1px dashed #c9cccd;
+
+}
+
+.search-hot-bottom {
+  height: 0.9rem;
+  position: relative;
+  overflow: hidden;
+  border-top: 1px solid #dce5e7;
+  border-bottom: 1px solid #dce5e7;
+}
+
+.search-hot-bottom-icon {
+  height: 70%;
+  line-height: .6rem;
+  width: .72rem;
+  position: absolute;
+  top: 15%;
+  border-right: 1px solid #dce5e7;
+  text-align: center;
+}
+
+.search-hot-bottom-address {
+  height: 70%;
+  width: 90%;
+  position: absolute;
+  top: 15%;
+  left: 0.75rem;
+}
+
+.hot-bottom-list {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.hot-bottom-item {
+  height: 100%;
+  line-height: .6rem;
+  width: 24.5%;
+  margin-bottom: .2rem;
+  float: left;
+  border-right: 1px dashed #c9cccd;
+  text-overflow: ellipsis;
+  color: #333;
+  text-align: center;
+}
+
+.search-nearby {
+  padding: .2rem;
+  border-bottom: 1px solid #dce5e7;
+  box-shadow: 0px 1px 3px 0px #ccc;
+}
+
+.search-nearby-content {
+  height: .72rem;
+  line-height: .72rem;
+  font-size: 0.26rem;
+  border: 1px solid #dde1e3;
+  border-radius: 2px;
+  text-align: center;
+  color: #333;
+}

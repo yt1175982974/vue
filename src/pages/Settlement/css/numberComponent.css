@@ -1,0 +1,52 @@
+/*数量加减  */
+
+.numberBox {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    line-height: .26rem;
+    padding: .24rem;
+    font-size: .3rem;
+    background: #fff;
+}
+
+.inputBox {
+    width: 1.92rem;
+    line-height: .6rem;
+    border: 1px solid #c7ced4;
+    clear: both;
+    overflow: hidden;
+    margin-right: .6rem;
+}
+
+.numtitle {
+    width: 1.5rem;
+    line-height: .6rem;
+}
+
+.numButton {
+    float: left;
+    width: .56rem;
+    height: .56rem;
+    text-align: center;
+    vertical-align: middle;
+    margin: .02rem;
+    background: #00afc7;
+    color: white;
+}
+
+.numButton-disable {
+    color: gray;
+    background: #f0f0f0;
+}
+
+#nowNum {
+    width: 0.72rem;
+    line-height: .6rem;
+    text-align: center;
+    border: none;
+    outline: none;
+    float: left;
+}

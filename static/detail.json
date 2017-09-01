@@ -1,0 +1,368 @@
+{
+    "ret": true,
+    "data": {
+        "groups": [
+            {
+                "groupId": "1",
+                "title": "日场",
+                "list":[
+                    {
+                        "infoId":"1",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140",
+                        "defaultId":"1",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            },{
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            },{
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            },{
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]
+
+                    },{
+                        "infoId":"2",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140",
+                        "defaultId":"2",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }, {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            },{
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]
+                    }
+                ]
+             
+            },{
+                "groupId": "2",
+                "title": "夜场",
+                "list":[
+                   {
+                        "infoId":"1",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140" ,
+                        "defaultId":"1",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }, {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]
+
+                    },{
+                        "infoId":"2",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140",
+                        "defaultId":"2",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }, {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]
+                    }
+                ]
+                
+            },{
+                "groupId": "3",
+                "title": "促销票",
+                "list":[
+                   {
+                        "infoId":"1",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140",
+                        "defaultId":"1",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }, {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            },{
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]                        
+                    },{
+                        "infoId":"2",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140",
+                        "defaultId":"2",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]
+                    },{
+                        "infoId":"3",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140",
+                        "defaultId":"3",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]                        
+                    }
+                ]
+                
+            },{
+                "groupId": "4",
+                "title": "老年票/儿童票",
+                "list":[
+                    {
+                        "infoId":"1",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140",
+                        "defaultId":"1",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }, {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            },{
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]                        
+                    },{
+                         "infoId":"2",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140",
+                        "defaultId":"2",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]
+                    },{
+                        "infoId":"3",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140",
+                        "defaultId":"3",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }, {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]                        
+                    }
+                ]
+                
+            },{
+                "groupId": "5",
+                "title": "一日游",
+                "list":[
+                    {
+                        "infoId":"1",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140" ,
+                        "defaultId":"1",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]                       
+                    },{
+                        "infoId":"2",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140",
+                        "defaultId":"2",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]    
+                    },{
+                        "infoId":"3",
+                        "name": "[长隆周年庆]长隆水上乐园成人票(仅限8月28日)",
+                        "price": "140",
+                        "defaultId":"3",
+                        "defaultInfo":[
+                            {
+                                "itemTitle":"【暑期特惠】长隆水上乐园夜场票(8.25-31可带1名1.5米以下儿童)",
+                                "itemTip1": "可定明日",
+                                "itemTip2": "条件退",
+                                "itemNowprice": "190",
+                                "itemPreprice": "195"
+                            }
+                        ]                            
+                    }
+                ]                
+            }
+
+        ],
+        "commentsInfo": [{
+            "id": "1",
+            "userId": "能*兔",
+            "data": "2017-08-11",
+            "commentContent": "亲子套票还是挺划算的，里面有几项是要求小孩子80斤才可以玩的，我家宝贝只有70斤，有几个项目没有玩，必须得说说，去玩自己备好一双拖鞋，大热天赤脚走地上不是一般的烫，水可以带进去，里面最便宜的水10元，一杯奶茶25元，饭68一份，不是一般的贵，但必须吃否则没有力气玩。总体还是很棒的一次游玩，一票通玩，建议把大型的项目全部玩了再去小的项目，因为时间原因还有几个项目要排队没有玩到，晚上还有表演可以看。很开心的一次体验",
+            "imgUrl":[
+                "http://img1.qunarzz.com/piao/fusion/1708/64/9be292e6b135d802.jpg_228x168_82d0bfa2.jpg",
+                "http://img1.qunarzz.com/piao/fusion/1708/36/b676102d4bcf0f02.jpg_228x168_0ccb30e8.jpg",
+                "http://img1.qunarzz.com/piao/fusion/1708/91/4df3680362018a02.jpg_228x168_821eaaf6.jpg",
+                "http://img1.qunarzz.com/piao/fusion/1708/75/f86c97262c153802.jpg_228x168_1fffe1af.jpg",
+                "http://img1.qunarzz.com/piao/fusion/1708/e3/878c4ccd503aa802.jpg_228x168_b91c50f2.jpg",
+                "http://img1.qunarzz.com/piao/fusion/1708/f6/3baa272158ce0e02.jpg_228x168_1a578982.jpg"
+            ]
+        },{
+            "id": "2",
+            "userId": "能*兔",
+            "data": "2017-08-11",
+            "commentContent": "亲子套票还是挺划算的，里面有几项是要求小孩子80斤才可以玩的，我家宝贝只有70斤，有几个项目没有玩，必须得说说，去玩自己备好一双拖鞋，大热天赤脚走地上不是一般的烫，水可以带进去，里面最便宜的水10元，一杯奶茶25元，饭68一份，不是一般的贵，但必须吃否则没有力气玩。总体还是很棒的一次游玩，一票通玩，建议把大型的项目全部玩了再去小的项目，因为时间原因还有几个项目要排队没有玩到，晚上还有表演可以看。很开心的一次体验",
+            "imgUrl":[
+                "http://img1.qunarzz.com/piao/fusion/1708/64/9be292e6b135d802.jpg_228x168_82d0bfa2.jpg",
+                "http://img1.qunarzz.com/piao/fusion/1708/64/9be292e6b135d802.jpg_228x168_82d0bfa2.jpg",
+                "http://img1.qunarzz.com/piao/fusion/1708/64/9be292e6b135d802.jpg_228x168_82d0bfa2.jpg",
+                "http://img1.qunarzz.com/piao/fusion/1708/64/9be292e6b135d802.jpg_228x168_82d0bfa2.jpg"
+            ]
+        }],
+        "promoteInfo": [
+            {
+                "id": "1",
+                "sight": "长隆野生动物世界",
+                "price": "4.5",
+                "commentnum" : "30190条评论",
+                "subposition" : "广州·广州长隆旅游度假区",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1707/58/582f4fc547ddc880a3.img.jpg_228x168_6f125bcf.jpg",
+                "link": "/detail"
+            },{
+                "id": "2",
+                "sight": "长隆野生动物世界",
+                "price": "4.5",
+                "commentnum" : "30190条评论",
+                "subposition" : "广州·广州长隆旅游度假区",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1707/58/582f4fc547ddc880a3.img.jpg_228x168_6f125bcf.jpg",
+                "link": "/detail"
+            },{
+                "id": "3",
+                "sight": "长隆野生动物世界",
+                "price": "4.5",
+                "commentnum" : "30190条评论",
+                "subposition" : "广州·广州长隆旅游度假区",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1707/58/582f4fc547ddc880a3.img.jpg_228x168_6f125bcf.jpg",
+                "link": "/detail"
+            },{
+                "id": "4",
+                "sight": "长隆野生动物世界",
+                "price": "4.5",
+                "commentnum" : "30190条评论",
+                "subposition" : "广州·广州长隆旅游度假区",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1707/58/582f4fc547ddc880a3.img.jpg_228x168_6f125bcf.jpg",
+                "link": "/detail"
+            },{
+                "id": "5",
+                "sight": "长隆野生动物世界",
+                "price": "4.5",
+                "commentnum" : "30190条评论",
+                "subposition" : "广州·广州长隆旅游度假区",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1707/58/582f4fc547ddc880a3.img.jpg_228x168_6f125bcf.jpg",
+                "link": "/detail"
+            }
+
+        ]     
+    }
+}

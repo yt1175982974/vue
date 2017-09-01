@@ -1,0 +1,147 @@
+{
+	"ret":true,
+	"data":{
+		"subcontInfo": [{
+            "id": 1,
+            "subtitle": "温都亲水行",
+            "subcontent": " ·。<br/>· 亲山近水、景自天成，蜿蜒七公里水系，四通八达环绕万亩生态区。<br/>· 人杰地灵，这里是康熙皇帝的行宫所在地。"
+        }],
+        "subcontsInfo": [{
+            "id": 1,
+            "subcontents": "温都水城两馆通票含：温泉养生馆+HI水空间<br/> 门票使用说明：<br/>①、HI-水空间套票包含项目：包括大型水上娱乐、滑板冲浪、漂流（不含设备）、儿童互动城堡、太空盆、飞天梭、人工造浪、室内游泳池、50米*25米沙滩式的养生会馆；<br/>②、养生馆包含项目：28个温泉池、部分药浴池、水中健身池、多功能理疗池、室外温泉区、桑拿、玛瑙湿蒸房、异型泳池、地热理疗池、VIP休息厅（23:00以前）；"
+        }],
+        "contentsInfo": [{
+        	"id":1,
+ 		    "contitle":"天然河流",
+ 			"imgUrl":"//img1.qunarzz.com/sight/p0/201403/07/f9780325692dab27b6c3c26cb4859a16.jpg_600x352_5bd574fd.jpg",
+ 			"imgtitle":"天然河流",
+ 			"imgdesc":"面积达200公顷左右，南北面宽1700米，东西进深1200米——温榆河"
+ 		},{
+ 			"id":2,
+ 			"contitle":"暖温泉",
+ 			"imgUrl":"//img1.qunarzz.com/sight/p0/201403/07/c2c55a699fded565cfbfd067df3348af.jpg_600x352_7bcfca35.jpg",
+ 			"imgtitle":"暖温泉",
+ 			"imgdesc":"温都水城有丰富的地热资源，目前已开发的六眼温泉井，深度达三千余米，出水温度高达79℃，各种矿物质含量丰富，日出水量均达到近万方以上。"
+ 		},{
+ 			"id":3,
+ 			"contitle":"溶洞温泉",
+ 			"imgUrl":"//img1.qunarzz.com/sight/p0/1511/3a/3a36d96b293ea58090.water.jpg_600x352_637a3acb.jpg",
+ 			"imgtitle":"溶洞温泉",
+            "imgdesc":"泡汤同时，观赏美轮美奂，五光十色的溶洞景观。"
+ 		},{
+ 			"id":4,
+ 			"imgUrl":"//img1.qunarzz.com/sight/p0/1511/2d/2d06f23f1ca460b690.water.jpg_600x352_8f7e31d3.jpg",
+ 			"imgtitle":"溶洞温泉",
+ 			"imgdesc":"泡汤同时，观赏美轮美奂，五光十色的溶洞景观。"
+ 		},{
+ 			"id":5,
+ 			"contitle":"水上乐园",
+ 			"imgUrl":"//img1.qunarzz.com/sight/p0/201310/22/9658465414424d98c8d65eac.jpg_600x352_0b63cb80.jpg",
+ 			"imgtitle":"水上乐园",
+ 			"imgdesc":"这里毕集人间灵秀，造物神功于一体；不但拥有丰富的温泉地热温泉资源，且有着源远流长的历史文化。"
+ 		},{
+ 			"id":6,
+ 			"contitle":"飞天梭",
+ 			"imgUrl":"//img1.qunarzz.com/sight/p0/201403/07/a6d0b0828b2ccb16fa1077b0c0a5dfce.jpg_600x352_646c4427.jpg",
+ 			"imgtitle":"飞天梭",
+ 			"imgdesc":"飞天梭、太空盆、竞技滑倒、滑板冲浪……丰富多彩的水世界一定让你享尽戏水的乐趣。"
+ 		},{
+ 			"id":7,
+ 			"contitle":"温泉夜色",
+ 			"imgUrl":"//img1.qunarzz.com/sight/p0/1511/5d/5d0c34365a26793190.water.jpg_600x352_58248d58.jpg",
+ 			"imgtitle":"温泉夜色"
+ 		},{
+ 			"id":8,
+ 			"contitle":"温泉夜色",
+ 			"imgUrl":"//img1.qunarzz.com/sight/p0/1511/c1/c1e57df10f0668a990.water.jpg_600x352_d6f275a2.jpg",
+ 			"imgtitle":"温泉夜色",
+ 			"imgdesc":"悠悠月色之下，伞灯一盏盏亮起，沐浴在温泉中，带给您无限美好感受。"
+ 		}],
+ 		"botcontInfo": [{
+ 			"id":1,
+ 			"bottitle":"入园参考",
+ 			"botstitle":"免费政策",
+ 			"botscontent":"儿童身高1.2米以下免费。",
+ 			"botnextstitle":"优惠政策",
+ 			"botnextscontent":"儿童身高1.2—1.4米之间购景区优惠票。"
+ 		},{
+ 			"id":2,
+ 			"bottitle":"交通和到达",
+ 			"botstitle":"自驾路线",
+ 			"botscontent":"1.八达岭高速北安河出口出，沿辅路行驶约500米右转，上七北路，行驶约6.5公里即到温都水城。<br/>2.安立路向北至平西府路口左转（快速公交左转路口），向西行驶约3.5公里即到温都水城（北五环至平西府路口约9.5公里）。",
+ 			"botnextstitle":"公交路线",
+ 			"botnextscontent":"1.839路、803区间、昌平22路到宏福苑小区下车步行即到。<br/>2.996路、966路、919支2路到平西王府西站下车步行即到。<br/>3.地铁5号线转乘快速公交3号线到平西王府西站下车步行即到。"
+ 		},{
+ 			"id":3,
+ 			"bottitle":"温馨提示",
+ 			"botstitle":"小贴士",
+ 			"botscontent":"1.一定要记得把身上的金属饰品摘下来，不然你会很难过地发现自己心爱的首饰已经被硫化成黑色的了。<br/>2.避免空腹、饭后、酒后泡温泉，泡温泉与吃饭时间至少应间隔一小时。<br/>3.选择适应自身的高、中、低温度的温泉池，从低温到高温，每次15-20分钟即可。<br/>4.温泉不宜长时间浸泡，否则会有胸闷、口渴、头晕等现象。在泉水中感觉口干、胸闷时，就得上池边歇歇，或喝点饮料补充水分。<br/>5，以免肌肤水分大量流失引起不适。<br/>6.过烫过酸的温泉不要泡，温度在30～45℃比较适宜。<br/>7.以免发生意外。<br/>8.泡完温泉后不必用清水冲洗，以防有副作用，皮肤容易过敏的人更要注意。<br/>9.根据水质划分，温泉一般分为中性碳酸泉、碱性碳酸氢钠泉、盐泉和硫磺泉四种。温泉的水质不同，则对不同的病症具有不同的疗效。所以泡温泉以前，并根据自身条件进行选择，才能真正达到泡温泉的预期目的，并可避免给身体带来伤害。"
+ 		},{
+ 			"id":4,
+ 			"bottitle":"购买须知",
+ 			"botstitle":"温馨提示",
+ 			"botscontent":"本订单提交后商家将尽快处理，预订是否成功请以后续短信为准。",
+ 			"botnextstitle":"使用方式",
+ 			"botnextscontent":"凭商家确认短信，在北京市昌平区北七家镇平西府街51号宏福创业园8号直接入园。",
+ 			"botnextstitles":"退改说明",
+ 			"botnextscontents":"1.退款手续费：¥5/张<br/>2.使用日期截止前1天00:00可申请退款。<br/>3.不支持部分退款。<br/>4.支持有效期内未使用可退款，至少票到期的前一天联系客服。(一码多张的不支持部分退款）。<br/>5.已消费或者超过有效期概不退款。<br/>"
+ 		}],
+        "nearbies": [{
+            "id":1,
+            "nearimg":"//img1.qunarzz.com/sight/p0/1706/f6/f676192521441bada3.img.jpg_150x150_1273c8b5.jpg",
+            "neartitle": "昌平草莓博览园一花三果水上乐园（水世界）",
+            "nearappraise": "&#xe628;&#xe628;&#xe628;&#xe628;&#xe628;",
+            "nearprice": "&yen;19",
+            "nearaddress": "北京·第五届北京农业嘉年华 | 0.7KM"
+        },{
+            "id":2,
+            "nearimg":"//img1.qunarzz.com/sight/p0/1507/d5/a9c70a3b26bd90e2e9274eae72ae6727.water.jpg_150x150_f2cdfb85.jpg",
+            "neartitle": "九华山庄温泉主题公园",
+            "nearappraise": "&#xe628;&#xe628;&#xe628;&#xe628;&#xe628;",
+            "nearprice": "&yen;88",
+            "nearaddress": "北京·九华山庄 | 2.9KM"
+        },{
+            "id":3,
+            "nearimg":"//img1.qunarzz.com/sight/p0/201408/07/7bfb818448c86bec2df764e5896739cd.jpg_150x150_20fccb13.jpg",
+            "neartitle": "美人鱼温泉宫",
+            "nearappraise": "&#xe628;&#xe628;&#xe628;&#xe628;&#xe628;",
+            "nearprice": "&yen;66",
+            "nearaddress": "北京·九华山庄"
+        },{
+            "id":4,
+            "nearimg":"//img1.qunarzz.com/sight/p0/1603/c3/c3e5a432d7798f5890.water.jpg_150x150_9ad30260.jpg",
+            "neartitle": "九华山庄",
+            "nearappraise": "&#xe628;&#xe628;&#xe628;&#xe628;&#xe628;",
+            "nearprice": "&yen;88",
+            "nearaddress": "北京·昌平区 | 2.9KM"
+        },{
+            "id":5,
+            "nearimg":"//img1.qunarzz.com/sight/p0/1708/87/870de9b689406674a3.img.jpg_150x150_5c5bcf7d.jpg",
+            "neartitle": "北京拉斐特城堡酒店温泉中心",
+            "nearprice": "&yen;79",
+            "nearaddress": "北京 | 3.2KM"
+        },{
+            "id":6,
+            "nearimg":"//img1.qunarzz.com/sight/p0/201305/27/2de705efdf6c5cfbc8d65eac.png_150x150_a5fa0a2e.png",
+            "neartitle": "天通苑蓬莱游泳馆",
+            "nearprice": "&yen;33",
+            "nearaddress": "北京·昌平区 | 3.8KM"
+        }],
+        "purchase":[{
+            "title":"有效时间",
+            "content":"游玩日期当天有效"
+        },{
+            "title":"预订时间",
+            "content":"需要在游玩当天的21:59前预订；预订后2小时才能入园"
+        },{
+            "title":"入园信息",
+            "content":"【兑换凭证】</br>可以通过商家的确认短信,进行兑换</br>【商家确认短信发送时间】</br>下单后5分钟内发送入园短信</br>【入园方式】</br>凭兑换凭证入园</br>【入园地址】</br>温都水城水空间售卡处电子票兑换处"
+        },{
+            "title":"费用说明",
+            "content":"温都水城两馆通票含：温泉养生馆+HI水空间</br>门票使用说明</br>①、HI-水空间套票包含项目：包括大型水上娱乐、滑板冲浪、漂流（不含设备）、儿童互动城堡、太空盆、飞天梭、人工造浪、室内游泳池、50米*25米沙滩式的养生会馆；</br>②、养生馆包含项目：28个温泉池、部分药浴池、水中健身池、多功能理疗池、室外温泉区、桑拿、玛瑙湿蒸房、异型泳池、地热理疗池、VIP休息厅（23:00以前）；"
+        },{
+            "title":"使用说明",
+            "content":"营业时间：水空间9:00-21:00，养生馆9:00-24:00</br>优惠政策：儿童1.2米以下免费，1.2米-1.4米需现场购100元儿童票"
+        }]
+	}
+}

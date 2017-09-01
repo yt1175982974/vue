@@ -1,0 +1,92 @@
+.commentsInformation {
+    width: 100%;
+    height: 2.48rem;
+    cursor: pointer;
+    margin-top: .2rem;
+    background: #fff;
+}
+
+.commentsInfo {
+    width: 100%;
+    height: .8rem;
+    border-bottom: .02rem solid #ccc;
+    box-sizing: border-box;
+    line-height: .8rem;
+    margin-top: .2rem;
+    background: #fff;
+}
+
+.commentsInfo-score {
+    font-size: .4rem;
+    color: #00afc7;
+    margin-left: .2rem;
+}
+
+.commentsInfo-text {
+    color: #00afc7;
+    font-size: .28rem;
+}
+
+.commentsInfo-tagscore {
+    display: inline-block;
+    font-size: .28rem;
+    color: #616161;
+    margin-left: .1rem;
+}
+
+.commentsInfo-totalnum {
+    display: inline-block;
+    float: right;
+    font-size: .28rem;
+    line-height: .8rem;
+    margin-left: .16rem;
+    margin-right: .2rem;
+    color: #9e9e9e;
+}
+
+.comments-item {
+    width: 100%;
+    height: 1.68rem;
+    padding: .1rem .2rem;
+    box-sizing: border-box;
+    margin-bottom: .2rem;
+    background: #FFF;
+}
+
+.comments-content {
+    height: 1.48rem;
+    padding: .2rem 0;
+    box-sizing: border-box;
+}
+
+.comments-top {
+    width: 100%;
+}
+
+.comments-star {
+    width: 100%;
+    letter-spacing: .06rem;
+    z-index: 2;
+    color: #00bcd4;
+}
+
+.comments-date {
+    float: right;
+    margin-left: .2rem;
+    color: #616161;
+    font-size: .28rem;
+}
+
+.comments-text {
+    width: 100%;
+    font-size: .28rem;
+    line-height: .4rem;
+    float: left;
+    color: #616161;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
